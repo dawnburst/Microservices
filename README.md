@@ -1,5 +1,5 @@
 # Microservices
-This project have 2 folders that contains 1 microservice each:
+This project have 2 folders that contains 1 microservice for each.
 
 Folder exchangeProducer:
 It is a Spring boot application that expose a rest API, that expect for currency transaction and pass it to RabbitMQ
