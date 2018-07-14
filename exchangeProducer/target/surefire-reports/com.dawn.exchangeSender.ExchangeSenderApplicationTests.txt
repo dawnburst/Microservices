@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dawn.exchangeSender.ExchangeSenderApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.081 s - in com.dawn.exchangeSender.ExchangeSenderApplicationTests
